@@ -1,8 +1,8 @@
-"""Ajout des relations protocole-tâche
+"""Initial migration
 
-Revision ID: c2abbb198d94
+Revision ID: 9f75cd845e49
 Revises: 
-Create Date: 2024-07-23 15:15:10.468207
+Create Date: 2024-07-31 21:10:02.316214
 
 """
 from alembic import op
@@ -10,7 +10,7 @@ import sqlalchemy as sa
 
 
 # revision identifiers, used by Alembic.
-revision = 'c2abbb198d94'
+revision = '9f75cd845e49'
 down_revision = None
 branch_labels = None
 depends_on = None
@@ -48,6 +48,15 @@ def upgrade():
     sa.Column('created_at', sa.String(), nullable=False),
     sa.Column('updated_at', sa.String(), nullable=False),
     sa.PrimaryKeyConstraint('id')
+    )
+    op.create_table('user',
+    sa.Column('id', sa.Integer(), nullable=False),
+    sa.Column('username', sa.String(length=20), nullable=False),
+    sa.Column('email', sa.String(length=120), nullable=False),
+    sa.Column('password_hash', sa.String(length=128), nullable=False),
+    sa.PrimaryKeyConstraint('id'),
+    sa.UniqueConstraint('email'),
+    sa.UniqueConstraint('username')
     )
     op.create_table('protocole_consumable',
     sa.Column('protocole_id', sa.String(), nullable=False),
@@ -94,7 +103,7 @@ def upgrade():
     sa.Column('time_required', sa.Integer(), nullable=True),
     sa.Column('time_unit', sa.String(), nullable=True),
     sa.Column('money', sa.Integer(), nullable=True),
-    sa.Column('completion_date', sa.DateTime(), nullable=True),
+    sa.Column('plan_date', sa.DateTime(), nullable=True),
     sa.Column('due_date', sa.DateTime(), nullable=True),
     sa.Column('benefits', sa.Integer(), nullable=True),
     sa.Column('selling_time', sa.String(), nullable=True),
@@ -119,6 +128,7 @@ def upgrade():
     op.create_table('sub_task',
     sa.Column('id', sa.String(), nullable=False),
     sa.Column('name', sa.String(), nullable=False),
+    sa.Column('is_done', sa.Boolean(), nullable=True),
     sa.Column('order', sa.Integer(), nullable=True),
     sa.Column('task_id', sa.String(), nullable=False),
     sa.ForeignKeyConstraint(['task_id'], ['task.id'], ),
@@ -168,6 +178,7 @@ def downgrade():
     op.drop_table('protocole_prerequisite')
     op.drop_table('protocole_material')
     op.drop_table('protocole_consumable')
+    op.drop_table('user')
     op.drop_table('resource')
     op.drop_table('protocole')
     op.drop_table('argent')
