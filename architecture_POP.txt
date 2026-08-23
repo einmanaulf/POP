@@ -1,0 +1,112 @@
+﻿
+FullName                                                                                             PSIsContainer Length LastWriteTime      
+--------                                                                                             ------------- ------ -------------      
+C:\Users\Utilisateur\PycharmProjects\POP\.git                                                                 True        03/08/2024 01:44:56
+C:\Users\Utilisateur\PycharmProjects\POP\.idea                                                                True        15/06/2026 05:41:06
+C:\Users\Utilisateur\PycharmProjects\POP\.idea\.gitignore                                                    False 50     16/07/2024 23:40:15
+C:\Users\Utilisateur\PycharmProjects\POP\.idea\inspectionProfiles                                             True        03/08/2024 01:44:43
+C:\Users\Utilisateur\PycharmProjects\POP\.idea\inspectionProfiles\profiles_settings.xml                      False 174    16/07/2024 23:40:15
+C:\Users\Utilisateur\PycharmProjects\POP\.idea\inspectionProfiles\Project_Default.xml                        False 827    16/07/2024 23:40:15
+C:\Users\Utilisateur\PycharmProjects\POP\.idea\misc.xml                                                      False 406    21/07/2024 21:58:21
+C:\Users\Utilisateur\PycharmProjects\POP\.idea\modules.xml                                                   False 265    16/07/2024 23:40:15
+C:\Users\Utilisateur\PycharmProjects\POP\.idea\POP.iml                                                       False 362    16/07/2024 23:40:15
+C:\Users\Utilisateur\PycharmProjects\POP\.idea\vcs.xml                                                       False 185    22/07/2024 21:01:51
+C:\Users\Utilisateur\PycharmProjects\POP\.idea\workspace.xml                                                 False 3782   15/06/2026 05:41:06
+C:\Users\Utilisateur\PycharmProjects\POP\.venv                                                                True        15/06/2026 05:36:37
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\.flaskenv                                                     False 41     21/07/2024 20:46:14
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\.gitignore                                                    False 42     16/07/2024 23:40:03
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\__pycache__                                                    True        17/03/2025 09:12:21
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\app.py                                                        False 1826   15/06/2026 05:36:37
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\app_clean.py                                                  False 1751   15/06/2026 05:35:56
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\config.py                                                     False 244    22/07/2024 16:02:13
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\extensions.py                                                 False 116    21/07/2024 23:17:10
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\forms.py                                                      False 806    24/07/2024 02:27:15
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\include                                                        True        03/08/2024 01:44:43
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\include\site                                                   True        03/08/2024 01:44:43
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\include\site\python3.12                                        True        03/08/2024 01:44:43
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\include\site\python3.12\greenlet                               True        03/08/2024 01:44:43
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\include\site\python3.12\greenlet\greenlet.h                   False 4755   21/07/2024 20:16:46
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\instance                                                       True        03/08/2024 01:44:43
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\instance\app.db                                               False 155648 02/08/2024 18:18:12
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\Lib                                                            True        03/08/2024 01:44:43
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\Lib\site-packages                                              True        03/08/2024 01:44:44
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\migrations                                                     True        03/08/2024 01:44:43
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\migrations\__pycache__                                         True        03/08/2024 01:44:43
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\migrations\alembic.ini                                        False 857    02/08/2024 18:11:35
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\migrations\env.py                                             False 3344   02/08/2024 18:11:35
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\migrations\README                                             False 41     02/08/2024 18:11:35
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\migrations\script.py.mako                                     False 494    02/08/2024 18:11:35
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\migrations\versions                                            True        03/08/2024 01:44:43
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\migrations\versions\__pycache__                                True        03/08/2024 01:44:43
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\migrations\versions\2210cc1828c7_initial_migration.py         False 8453   02/08/2024 18:11:45
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\models.py                                                     False 23762  17/03/2025 09:12:20
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\pyvenv.cfg                                                    False 434    16/07/2024 23:40:04
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\routes.py                                                     False 32289  28/11/2024 14:25:40
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\Scripts                                                        True        03/08/2024 01:44:43
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\Scripts\activate                                              False 2254   16/07/2024 23:40:04
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\Scripts\activate.bat                                          False 1064   16/07/2024 23:40:04
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\Scripts\activate.fish                                         False 3084   16/07/2024 23:40:04
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\Scripts\activate.nu                                           False 2769   16/07/2024 23:40:04
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\Scripts\activate.ps1                                          False 1654   16/07/2024 23:40:04
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\Scripts\activate_this.py                                      False 1332   16/07/2024 23:40:04
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\Scripts\alembic.exe                                           False 108416 21/07/2024 20:36:56
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\Scripts\deactivate.bat                                        False 537    16/07/2024 23:40:04
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\Scripts\email_validator.exe                                   False 108426 24/07/2024 02:14:15
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\Scripts\flask.exe                                             False 108411 21/07/2024 20:16:33
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\Scripts\mako-render.exe                                       False 108416 21/07/2024 20:36:55
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\Scripts\pip.exe                                               False 108424 16/07/2024 23:40:04
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\Scripts\pip3.12.exe                                           False 108424 16/07/2024 23:40:04
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\Scripts\pip-3.12.exe                                          False 108424 16/07/2024 23:40:04
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\Scripts\pip3.exe                                              False 108424 16/07/2024 23:40:04
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\Scripts\pydoc.bat                                             False 24     16/07/2024 23:40:04
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\Scripts\python.exe                                            False 270616 16/07/2024 23:40:03
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\Scripts\pythonw.exe                                           False 259352 16/07/2024 23:40:03
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\Scripts\waitress-serve.exe                                    False 108415 22/07/2024 22:32:05
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\templates                                                      True        28/11/2024 14:28:51
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\templates\base.html                                           False 11994  03/08/2024 10:43:54
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\templates\index.html                                          False 15999  28/11/2024 14:28:51
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\templates\listes                                               True        03/08/2024 01:44:43
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\templates\listes\create.html                                  False 1081   01/08/2024 21:59:47
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\templates\listes\details.html                                 False 14813  02/08/2024 17:22:47
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\templates\listes\list.html                                    False 656    02/08/2024 11:39:24
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\templates\login.html                                          False 623    24/07/2024 02:16:47
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\templates\protocoles                                           True        03/08/2024 01:44:43
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\templates\protocoles\choose_protocole_type.html               False 1088   31/07/2024 23:39:47
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\templates\protocoles\create.html                              False 7187   31/07/2024 23:49:10
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\templates\protocoles\details.html                             False 2211   23/07/2024 14:33:06
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\templates\protocoles\list.html                                False 651    23/07/2024 15:17:42
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\templates\protocoles\update.html                              False 7210   31/07/2024 23:49:10
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\templates\register.txt                                        False 687    03/08/2024 10:32:31
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\templates\resources                                            True        03/08/2024 01:44:43
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\templates\resources\create.html                               False 731    21/07/2024 23:33:40
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\templates\resources\details.html                              False 634    21/07/2024 23:04:12
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\templates\resources\list.html                                 False 3451   23/07/2024 12:10:40
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\templates\resources\update.html                               False 492    21/07/2024 23:04:26
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\templates\tasks                                                True        18/08/2024 16:00:08
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\templates\tasks\choose_task_type.html                         False 1100   23/07/2024 14:51:18
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\templates\tasks\create.html                                   False 11129  01/08/2024 00:25:45
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\templates\tasks\details.html                                  False 2801   02/08/2024 15:29:19
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\templates\tasks\list.html                                     False 8866   18/08/2024 16:00:08
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\templates\tasks\scheduled.html                                False 3894   26/07/2024 20:45:05
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\templates\tasks\update.html                                   False 13844  01/08/2024 11:20:48
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\var                                                            True        03/08/2024 01:44:43
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\var\app-instance                                               True        15/06/2026 05:43:00
+C:\Users\Utilisateur\PycharmProjects\POP\.venv\var\app-instance\app.db                                       False 163840 15/06/2026 05:43:00
+C:\Users\Utilisateur\PycharmProjects\POP\architecture_POP.txt                                                False 0      15/06/2026 05:44:02
+C:\Users\Utilisateur\PycharmProjects\POP\migrations                                                           True        03/08/2024 01:44:43
+C:\Users\Utilisateur\PycharmProjects\POP\migrations\__pycache__                                               True        03/08/2024 01:44:43
+C:\Users\Utilisateur\PycharmProjects\POP\migrations\alembic.ini                                              False 857    01/08/2024 22:46:25
+C:\Users\Utilisateur\PycharmProjects\POP\migrations\env.py                                                   False 3344   01/08/2024 22:46:25
+C:\Users\Utilisateur\PycharmProjects\POP\migrations\README                                                   False 41     01/08/2024 22:46:25
+C:\Users\Utilisateur\PycharmProjects\POP\migrations\script.py.mako                                           False 494    01/08/2024 22:46:26
+C:\Users\Utilisateur\PycharmProjects\POP\migrations\versions                                                  True        03/08/2024 01:44:43
+C:\Users\Utilisateur\PycharmProjects\POP\migrations\versions\__pycache__                                      True        03/08/2024 01:44:43
+C:\Users\Utilisateur\PycharmProjects\POP\migrations\versions\711c4151400d_initial_migration.py               False 8453   01/08/2024 22:46:28
+C:\Users\Utilisateur\PycharmProjects\POP\static                                                               True        03/08/2024 01:44:43
+C:\Users\Utilisateur\PycharmProjects\POP\static\css                                                           True        03/08/2024 01:44:43
+C:\Users\Utilisateur\PycharmProjects\POP\static\css\jquery-ui.min.css                                        False 35973  26/07/2024 15:17:43
+C:\Users\Utilisateur\PycharmProjects\POP\static\js                                                            True        03/08/2024 01:44:43
+C:\Users\Utilisateur\PycharmProjects\POP\static\js\jquery-3.6.0.min.js                                       False 89501  26/07/2024 15:17:05
+C:\Users\Utilisateur\PycharmProjects\POP\static\js\jquery-ui.min.js                                          False 253668 26/07/2024 15:17:10
+
+
